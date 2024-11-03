@@ -1,0 +1,142 @@
+@font-face {
+    font-family: "Portal";
+    src: url("portal.ttf");
+}
+
+.navbarCustom{
+    background-color: #8da4b6;
+    color: #1282d4;
+}
+.navbarOptionCustom{
+    color: cyan;
+    margin-left: 20;
+    margin-right: 20;
+}
+
+.marginGrid{
+    margin: 20;
+}
+.blackBG{
+    background-color:  #000002;
+}
+.gridBG{
+    background-color: #63747c;
+    border-color: #e9831f;
+}
+
+.formMargin{
+    margin-top: 20;
+    margin-bottom: 20;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.formMargin2{
+    margin-top: 20;
+    margin-bottom: 20;
+    margin-left: 50;
+    margin-right: 50;
+}
+
+.formCardBG{
+    background-color: #1a1a1a;
+    border-color: #1a1a1a;
+
+
+}
+.txtCustom{
+    color: #000000;
+}
+
+.portalFont{
+    margin-top: 15;
+    color: #1282d4;
+    text-align: center;
+    font-family: "Portal";
+}
+
+.portalFontModal{
+    font-family: "Portal";
+}
+
+.center{
+    align-items: center;
+    justify-content: center;
+}
+
+
+.horizontalCard{
+    margin-left: 20;
+    margin-right: 20;
+    background-color: black;
+    border-radius: 20;
+    text-align: justify;
+    padding: 20;
+}
+
+.cardText{
+    color: #FFFFFF;
+}
+
+.btnCustom{
+    align-items: right;
+    float: right;
+    text-align: center;
+}
+
+.btnCardBG{
+    background-color: #e9831f;
+}
+
+.flex{
+    display: flex;
+   
+}
+
+.inbetween{
+    margin-left:30;
+}
+
+.btnRad{
+    border-radius: 20;
+    background-color: #1282d4;
+    width: 200;
+}
+
+.imgOpacity{
+    opacity: 0.3;
+}
+
+.txtGlados{
+    position: absolute;
+    bottom: 0;
+    text-align: justify;
+    margin-left: 20;
+    margin-right: 20;
+    
+}
+
+.marginBottom{
+    margin-bottom: 20;
+}
+
+
+
+.borderCustom{
+    border-color: black;
+}
+
+.overflow{
+    max-height: 100%;
+    overflow: auto; 
+    
+}
+
+.backgroundModal{
+    background-color: #9bb2b2;
+}
+.footerMargin{
+    margin-left: 20;
+    margin-right: 20;
+    font-family: "Portal";
+}
